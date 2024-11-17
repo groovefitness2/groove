@@ -1,8 +1,7 @@
 <?php
     //we need to get our variables first
-    <input type="hidden" name="access_key" value="914a102f-c651-4c51-a09e-5f026cc04b3a" />
     
-    $email_to =   'gorityalarishikesh1@gmail.com'; //the address to which the email will be sent
+    $email_to =   'support@email.com'; //the address to which the email will be sent
     $name     =   $_POST['name'];  
     $email    =   $_POST['email'];
     $subject  =   $_POST['subject'];
